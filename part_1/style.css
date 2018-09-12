@@ -1,0 +1,49 @@
+.dark{
+	font-family: cursive;
+	background-color: gray;
+	
+
+}
+h1{
+	font-family: Helvetica;
+}
+h2{
+	font-family: roman;
+	margin-left: 39px;
+}
+h3{
+	font-family: Arial;
+	margin-left: 39px;
+}
+.container{
+	color: white;
+}
+.author{
+	font-style: italic;
+	color: blue;
+}
+.para{
+	margin-left: 43px;
+}
+a{
+	margin-left: -338px;
+}
+#new_comment_button{
+	margin-left: 34px;
+	width: 116px;
+    height: 29px;
+}
+.button{
+	margin-left: 34px;
+	width: 116px;
+    height: 29px;
+    margin-top: 8px;
+
+}
+	
+
+
+
+
+
+
